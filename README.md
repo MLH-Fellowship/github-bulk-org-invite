@@ -15,3 +15,7 @@ Make sure to add a list of GitHub usernames into `fellows.txt`. Make sure each u
 ```
 python script.py
 ```
+
+## Google App Script
+
+Code for AppScript is under `Script.gs`.
